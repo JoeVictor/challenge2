@@ -25,7 +25,7 @@
 
 ## 📝 Link for the live-version of the project
  
- https://joevictor.github.io/challenge1/
+ https://joevictor.github.io/portfolio-creation/
 
 ![Project screenshot of the website](./2Screenshot.png)
 ---
